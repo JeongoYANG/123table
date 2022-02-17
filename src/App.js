@@ -9,7 +9,7 @@ export default function Singleton(){
       { path: "3", element: <Component3 /> },
     ]);
   }
-const Home = () => (<Layout><h1>즐거운 리액트 코딩시간 *^^* </h1></Layout>)
+const Home = () => (<Layout><h1>즐거운건 모르겠지만 리액트 코딩시간 *^^* </h1></Layout>)
 const Component1 = () =>(<Layout><h1>1</h1></Layout>)
 const Component2 = () => (<Layout><h1>2</h1></Layout>)
 const Component3 = () => (<Layout><h1>3</h1></Layout>)
